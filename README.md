@@ -1,2 +1,3 @@
 # front-blog
-blog meta data
+get meta data from article just for fun.
+
